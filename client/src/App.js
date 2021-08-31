@@ -7,13 +7,16 @@ import {
 import Header from './components/Header';
 import About from './components/About';
 import Contact from './components/Contact';
+import Footer from './components/Footer';
+import Portfolio from './components/Portfolio';
+import Resume from './components/Resume';
 
 
 function App() {
   return (
     <div className="App">
       <Router>
-      <Header />
+        <Header />
         <Switch>
           <Route exact path="/">
             <About />
@@ -21,10 +24,15 @@ function App() {
           <Route path="/contact">
             <Contact />
           </Route>
-
+          <Route path="/portfolio">
+            <Portfolio />
+          </Route>
+          <Route path="/resume">
+            <Resume />
+          </Route>
         </Switch>
       </Router>
-      
+      <Footer />
     </div>
   );
 }
