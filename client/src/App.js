@@ -10,6 +10,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Portfolio from './components/Portfolio';
 import Resume from './components/Resume';
+//import Project from './components/Project';
 
 
 function App() {

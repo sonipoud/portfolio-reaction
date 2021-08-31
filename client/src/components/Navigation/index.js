@@ -1,16 +1,18 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Navbar, Nav, Container } from 'react-bootstrap';
 
 function Navigation() {
     return (
-        <nav>
-                <ul>
-                    <li> <Link to="/">About Me</Link></li>
-                    <li> <Link to="/portfolio">Portfolio</Link></li>
-                    <li> <Link to="/contact">Contact Me </Link></li>
-                    <li> <Link to="/resume">Resume</Link></li>
-                </ul>
-        </nav>
+        <Navbar bg="light" expand="lg">
+            <Container>
+                    <Nav className="me-auto">
+                        <Nav.Link href="/"> About Me </Nav.Link>
+                        <Nav.Link href="/portfolio"> Portfolio </Nav.Link>
+                        <Nav.Link href="/contact"> Contact Me </Nav.Link>
+                        <Nav.Link href="/resume"> Resume </Nav.Link>
+                    </Nav>
+            </Container>
+        </Navbar>
     )
 }
 
