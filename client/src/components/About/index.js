@@ -1,9 +1,14 @@
 import React from 'react';
+import { Card } from 'react-bootstrap';
+import coverImage from '../../assets/images/cover.jpg';
+import './style.css';
 
 function About() {
     return (
-        <div>
-            <p>
+        <Card>
+            <Card.Body>
+                <h2> About Me </h2>
+                <img src={coverImage} alt="cover"/> <br/>
                 Welcome to my E-Portfolio! <br />
                 My name is Sonika Poudyal and I graduated from Rutgers University with a degree of Bachelors in
                 Biology
@@ -15,8 +20,8 @@ function About() {
                 path.
                 After struggling for a few years to find my right career path, I finally found one as a Web
                 developer.
-            </p>
-        </div>
+            </Card.Body>
+        </Card>
     )
 }
 

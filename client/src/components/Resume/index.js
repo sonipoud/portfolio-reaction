@@ -31,6 +31,9 @@ function Resume() {
 
             <h3> Projects: </h3>
             <ul>
+                <li>PWA Budget-tracker</li>
+                <li>NoSQL</li>
+                <li>Regex</li>
                 <li>Beat It</li>
                 <li>My Blog</li>
                 <li>E-commerce BackEnd</li>
@@ -58,6 +61,17 @@ function Resume() {
                 <li>jQuery</li>
                 <li>Bootstrap</li>
                 <li>localStorage</li>
+                <li>Express</li>
+                <li>MongoDB</li>
+                <li>Mongoose</li>
+                <li>React</li>
+                <li>Node</li>
+                <li>NoSQL</li>
+                <li>SQL</li>
+                <li>PWA</li>
+                <li>Regex</li>
+                <li>Sequelize</li>
+                <li>Handlebars</li>
             </ul>
 
             <h3> Skills: </h3>

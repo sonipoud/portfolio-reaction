@@ -6,6 +6,30 @@ function Portfolio() {
             <h1> My work </h1>
             <ul>
                 <li>
+                    <a href="https://budtrack-money.herokuapp.com/">
+                        <div>
+                            <h3>PWA Budget-tracker</h3>
+                            <span>JavaScript/Express/Mongoose/PWA</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/sonipoud/NosocialSQL">
+                        <div>
+                            <h3>NoSQL</h3>
+                            <span>NoSQL/MongoDB/Express.js/Node</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://gist.github.com/sonipoud/9895a3c3ba5d2781a0d10d3c735bdc48">
+                        <div>
+                            <h3>Regex</h3>
+                            <span>Github Gist</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
                     <a href="https://beatit-music-app.herokuapp.com/">
                         <div>
                             <h3>Beat IT</h3>
