@@ -40,40 +40,20 @@ function Contact() {
     return (
         <section>
             <h1> Contact Me </h1>
-            <form id="contact-form" onSubmit={handleSubmit}>
-                <div>
-                    <label htmlFor="name">Name:</label>
-                    <input type="text" defaultValue={name} onBlur={handleChange} name="name" />
-                </div>
-                <div>
-                    <label htmlFor="email">Email address:</label>
-                    <input type="email" defaultValue={email} name="email" onBlur={handleChange} />
-                </div>
-                <div>
-                    <label htmlFor="message">Message:</label>
-                    <textarea name="message" defaultValue={message} onBlur={handleChange} rows="5" />
-                </div>
-                {errorMessage && (
-                    <div>
-                        <p className="error-text">{errorMessage}</p>
-                    </div>
-                )}
-                <button type="submit">Submit</button>
-            </form>
-            {/* <Form id="contact-form" onSubmit={handleSubmit}>
+            <Form id="contact-form" onSubmit={handleSubmit}>
                 <Form.Group className="mb-3" controlId="formBasicEmail">
-                    <Form.label>Name:</Form.label>
-                    <Form.control type="text" defaultValue={name} onBlur={handleChange} name="name" />
+                    <Form.Label>Name:</Form.Label>
+                    <Form.Control type="text" defaultValue={name} onBlur={handleChange} name="name" />
                 </Form.Group>
 
                 <Form.Group className="mb-3" controlId="formBasicEmail">
-                    <Form.label>Email address:</Form.label>
-                    <Form.control type="email" defaultValue={email} name="email" onBlur={handleChange} />
+                    <Form.Label>Email address:</Form.Label>
+                    <Form.Control type="email" defaultValue={email} name="email" onBlur={handleChange} />
                 </Form.Group>
 
                 <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
-                    <Form.label>Message:</Form.label>
-                    <Form.control name="message" defaultValue={message} onBlur={handleChange} rows="5" />
+                    <Form.Label>Message:</Form.Label>
+                    <Form.Control name="message" defaultValue={message} onBlur={handleChange} rows="5" />
                     {errorMessage && (
                     <div>
                         <p className="error-text">{errorMessage}</p>
@@ -81,7 +61,7 @@ function Contact() {
                 )}
                 </Form.Group>
                 <Button variant="primary" type="submit">Submit</Button>
-                </Form> */}
+                </Form>
         </section >     
     )
 }

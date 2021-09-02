@@ -7,8 +7,8 @@ function About() {
     return (
         <Card>
             <Card.Body>
+            <img src={coverImage} alt="cover"/> <br/>
                 <h2> About Me </h2>
-                <img src={coverImage} alt="cover"/> <br/>
                 Welcome to my E-Portfolio! <br />
                 My name is Sonika Poudyal and I graduated from Rutgers University with a degree of Bachelors in
                 Biology
