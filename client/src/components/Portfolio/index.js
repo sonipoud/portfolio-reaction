@@ -27,7 +27,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>PWA Budget-tracker</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">JavaScript/Express/Mongoose/PWA</Card.Subtitle>
-                        <Card.Link href="https://budtrack-money.herokuapp.com/">Github Icon</Card.Link>
+                        <Card.Link href="https://budtrack-money.herokuapp.com/">Github</Card.Link>
                     </Card.Body>
                 </Card>
 
@@ -36,7 +36,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>NoSQL</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">JNoSQL/MongoDB/Express.js/Node</Card.Subtitle>
-                        <Card.Link href="https://github.com/sonipoud/NosocialSQL">Github Icon</Card.Link>
+                        <Card.Link href="https://github.com/sonipoud/NosocialSQL">Github</Card.Link>
                     </Card.Body>
                 </Card>
 
@@ -45,7 +45,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>Regex</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">Github Gist</Card.Subtitle>
-                        <Card.Link href="https://gist.github.com/sonipoud/9895a3c3ba5d2781a0d10d3c735bdc48">Github Icon</Card.Link>
+                        <Card.Link href="https://gist.github.com/sonipoud/9895a3c3ba5d2781a0d10d3c735bdc48">Github</Card.Link>
                     </Card.Body>
                 </Card>
 
@@ -54,7 +54,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>Beat IT</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">Sequelize/Node/JS/Express/Handlebars/CSS</Card.Subtitle>
-                        <Card.Link href="https://beatit-music-app.herokuapp.com/">Github Icon</Card.Link>
+                        <Card.Link href="https://beatit-music-app.herokuapp.com/">Github</Card.Link>
                     </Card.Body>
                 </Card>
 
@@ -63,7 +63,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>Tech Blog</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">Sequelize/Node/JS/Express/Handlebars/CSS</Card.Subtitle>
-                        <Card.Link href="https://techbloggermvc.herokuapp.com/">Github Icon</Card.Link>
+                        <Card.Link href="https://techbloggermvc.herokuapp.com/">Github</Card.Link>
                     </Card.Body>
                 </Card>
 
@@ -72,7 +72,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>E-commerce Back End</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">SQL/sequelize/Node/JS</Card.Subtitle>
-                        <Card.Link href="https://sonipoud.github.io/mercey/">Github Icon</Card.Link>
+                        <Card.Link href="https://sonipoud.github.io/mercey/">Github</Card.Link>
                     </Card.Body>
                 </Card>
 
@@ -81,7 +81,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>Note Taker</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">HTML/CSS/JS/Express/Node/API</Card.Subtitle>
-                        <Card.Link href="https://note-notetaker.herokuapp.com/">Github Icon</Card.Link>
+                        <Card.Link href="https://note-notetaker.herokuapp.com/">Github</Card.Link>
                     </Card.Body>
                 </Card>
 
@@ -90,7 +90,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>Team Profile Generator</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">JS/Node/OOP/TDD/ES6</Card.Subtitle>
-                        <Card.Link href="https://sonipoud.github.io/Antisfy/">Github Icon</Card.Link>
+                        <Card.Link href="https://sonipoud.github.io/Antisfy/">Github</Card.Link>
                     </Card.Body>
                 </Card>
 
@@ -99,7 +99,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>ReadMe Generator</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">JS</Card.Subtitle>
-                        <Card.Link href="https://sonipoud.github.io/genreadmeator/">Github Icon</Card.Link>
+                        <Card.Link href="https://sonipoud.github.io/genreadmeator/">Github</Card.Link>
                     </Card.Body>
                 </Card>
 
@@ -108,7 +108,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>Brewery Dog</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">JS</Card.Subtitle>
-                        <Card.Link href="https://jconnro.github.io/brewery-dog/">Github Icon</Card.Link>
+                        <Card.Link href="https://jconnro.github.io/brewery-dog/">Github</Card.Link>
                     </Card.Body>
                 </Card>
 
@@ -117,7 +117,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>Weather Dashboard</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">HTML/CSS/JS/API</Card.Subtitle>
-                        <Card.Link href="https://sonipoud.github.io/blazerer/">Github Icon</Card.Link>
+                        <Card.Link href="https://sonipoud.github.io/blazerer/">Github</Card.Link>
                     </Card.Body>
                 </Card>
 
@@ -126,7 +126,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>WorkDay Scheduler</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">HTML/CSS/JS/</Card.Subtitle>
-                        <Card.Link href="https://sonipoud.github.io/leafcal/">Github Icon</Card.Link>
+                        <Card.Link href="https://sonipoud.github.io/leafcal/">Github</Card.Link>
                     </Card.Body>
                 </Card>
 
@@ -135,7 +135,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>Code Quiz</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">HTML/CSS/JS/</Card.Subtitle>
-                        <Card.Link href="https://sonipoud.github.io/QAMPLY/">Github Icon</Card.Link>
+                        <Card.Link href="https://sonipoud.github.io/QAMPLY/">Github</Card.Link>
                     </Card.Body>
                 </Card>
 
@@ -144,7 +144,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>Password Generator</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">HTML/CSS/JS/</Card.Subtitle>
-                        <Card.Link href="https://sonipoud.github.io/crashgen/">Github Icon</Card.Link>
+                        <Card.Link href="https://sonipoud.github.io/crashgen/">Github</Card.Link>
                     </Card.Body>
                 </Card>
 
@@ -153,7 +153,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>Run Buddy</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">HTML/CSS</Card.Subtitle>
-                        <Card.Link href="https://sonipoud.github.io/run-buddy/">Github Icon</Card.Link>
+                        <Card.Link href="https://sonipoud.github.io/run-buddy/">Github</Card.Link>
                     </Card.Body>
                 </Card>
 
@@ -162,7 +162,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>Horiseon</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">HTML/CSS</Card.Subtitle>
-                        <Card.Link href="https://sonipoud.github.io/mahamandir/">Github Icon</Card.Link>
+                        <Card.Link href="https://sonipoud.github.io/mahamandir/">Github</Card.Link>
                     </Card.Body>
                 </Card>
             </div>
