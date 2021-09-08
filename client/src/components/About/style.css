@@ -12,3 +12,11 @@
     color: black;
 }
 
+.alter {
+    width: 15%;
+    margin: 0;
+    flex: 1;
+    line-height: 1.2;
+    display: inline;
+}
+
