@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card } from 'react-bootstrap';
-import coverImage from '../../assets/images/cover.jpg';
+// import coverImage from '../../assets/images/cover.jpg';
 import './style.css';
 
 function About() {
