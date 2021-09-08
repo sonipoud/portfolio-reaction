@@ -1,10 +1,14 @@
-img {
-    width: 100%;
-    opacity: 0.5;
-    display:flex;
-}
 
 .card {
     width: 100%;
     text-align: center;
-  }
+}
+
+.body-color {
+    color: black;
+}
+
+.me-color {
+    color: black;
+}
+

@@ -30,8 +30,8 @@ body {
   font-size: 18px;
   letter-spacing: .1em;
   background: var(--dark);
-  color: orange;
   font-family: 'Poiret One', cursive;
+  color: var(--light);
 }
 
 h1,
@@ -44,7 +44,7 @@ h6 {
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
-  color: var(--pink);
+  color: var(--light);
 }
 
 p {

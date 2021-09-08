@@ -39,7 +39,7 @@ function Contact() {
 
     return (
         <section>
-            <h1> Contact Me </h1>
+            <h2> Contact Me </h2>
             <Form id="contact-form" onSubmit={handleSubmit}>
                 <Form.Group className="mb-3" controlId="formBasicEmail">
                     <Form.Label>Name:</Form.Label>
