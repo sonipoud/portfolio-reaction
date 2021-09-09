@@ -7,10 +7,10 @@ function Navigation() {
         <Navbar bg="dark" variant="dark">
             <Container>
                     <Nav>
-                        <Nav.Link href="/#/"> About Me </Nav.Link>
-                        <Nav.Link href="/#/portfolio"> Portfolio </Nav.Link>
-                        <Nav.Link href="/#/contact"> Contact Me </Nav.Link>
-                        <Nav.Link href="/#/resume"> Resume </Nav.Link>
+                        <Nav.Link href="/"> About Me </Nav.Link>
+                        <Nav.Link href="#portfolio"> Portfolio </Nav.Link>
+                        <Nav.Link href="#contact"> Contact Me </Nav.Link>
+                        <Nav.Link href="#resume"> Resume </Nav.Link>
                     </Nav> 
             </Container>
         </Navbar>
@@ -19,4 +19,4 @@ function Navigation() {
 
 export default Navigation;
 
-// target='_blank'
+
