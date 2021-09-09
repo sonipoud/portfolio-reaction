@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/portfolio-reaction/static/css/main.7ae499eb.chunk.css",
+    "main.js": "/portfolio-reaction/static/js/main.8398c985.chunk.js",
+    "main.js.map": "/portfolio-reaction/static/js/main.8398c985.chunk.js.map",
+    "runtime-main.js": "/portfolio-reaction/static/js/runtime-main.31624f2f.js",
+    "runtime-main.js.map": "/portfolio-reaction/static/js/runtime-main.31624f2f.js.map",
+    "static/css/2.818011ed.chunk.css": "/portfolio-reaction/static/css/2.818011ed.chunk.css",
+    "static/js/2.73c95e9a.chunk.js": "/portfolio-reaction/static/js/2.73c95e9a.chunk.js",
+    "static/js/2.73c95e9a.chunk.js.map": "/portfolio-reaction/static/js/2.73c95e9a.chunk.js.map",
+    "static/js/3.4524fc7f.chunk.js": "/portfolio-reaction/static/js/3.4524fc7f.chunk.js",
+    "static/js/3.4524fc7f.chunk.js.map": "/portfolio-reaction/static/js/3.4524fc7f.chunk.js.map",
+    "index.html": "/portfolio-reaction/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/portfolio-reaction/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.7ae499eb.chunk.css.map": "/portfolio-reaction/static/css/main.7ae499eb.chunk.css.map",
+    "static/js/2.73c95e9a.chunk.js.LICENSE.txt": "/portfolio-reaction/static/js/2.73c95e9a.chunk.js.LICENSE.txt",
+    "static/media/beat-it.ed6358dc.jpg": "/portfolio-reaction/static/media/beat-it.ed6358dc.jpg",
+    "static/media/brewery-dog.cfb83866.jpg": "/portfolio-reaction/static/media/brewery-dog.cfb83866.jpg",
+    "static/media/code-quiz.90ab639b.jpg": "/portfolio-reaction/static/media/code-quiz.90ab639b.jpg",
+    "static/media/ecommerce-backend.4974ece9.jpg": "/portfolio-reaction/static/media/ecommerce-backend.4974ece9.jpg",
+    "static/media/horiseon.0e89b769.jpg": "/portfolio-reaction/static/media/horiseon.0e89b769.jpg",
+    "static/media/my-blog.42939fd3.png": "/portfolio-reaction/static/media/my-blog.42939fd3.png",
+    "static/media/noSQL.e3565392.jpg": "/portfolio-reaction/static/media/noSQL.e3565392.jpg",
+    "static/media/note-taker.fae7b7ba.png": "/portfolio-reaction/static/media/note-taker.fae7b7ba.png",
+    "static/media/password-generator.e2ef90e8.jpg": "/portfolio-reaction/static/media/password-generator.e2ef90e8.jpg",
+    "static/media/profile-pic.ae6a5d75.jpg": "/portfolio-reaction/static/media/profile-pic.ae6a5d75.jpg",
+    "static/media/readme-generator.977f3f1e.jpg": "/portfolio-reaction/static/media/readme-generator.977f3f1e.jpg",
+    "static/media/resume.fd1c9d1c.pdf": "/portfolio-reaction/static/media/resume.fd1c9d1c.pdf",
+    "static/media/run-buddy.1958be99.jpg": "/portfolio-reaction/static/media/run-buddy.1958be99.jpg",
+    "static/media/team-profile-generator.4f1b9b9c.jpg": "/portfolio-reaction/static/media/team-profile-generator.4f1b9b9c.jpg",
+    "static/media/weather-dashboard.a7cbf892.jpg": "/portfolio-reaction/static/media/weather-dashboard.a7cbf892.jpg",
+    "static/media/work-day-scheduler.11fe9d5f.jpg": "/portfolio-reaction/static/media/work-day-scheduler.11fe9d5f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31624f2f.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.73c95e9a.chunk.js",
+    "static/css/main.7ae499eb.chunk.css",
+    "static/js/main.8398c985.chunk.js"
+  ]
+}
