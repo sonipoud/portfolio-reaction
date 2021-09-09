@@ -20,7 +20,7 @@ html,
 body {
   min-height: 100%;
   padding: 0;
-  margin: 2%;
+  margin: 3%;
 }
 
 body {
@@ -129,4 +129,16 @@ textarea {
 	height: 120px;
 	border: 3px solid #cccccc;
 	padding: 5px;
+}
+
+@media screen and (max-width: 768px) {  
+   body {
+     padding-top: 5%;
+   }
+ }
+
+ @media screen and (max-width: 375px) {  
+  body {
+    padding-top: 20%;
+  }
 }

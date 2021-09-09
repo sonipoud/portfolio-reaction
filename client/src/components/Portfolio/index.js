@@ -17,12 +17,13 @@ import code from '../../assets/images/code-quiz.jpg';
 import password from '../../assets/images/password-generator.jpg';
 import run from '../../assets/images/run-buddy.jpg';
 import horizeon from '../../assets/images/horiseon.jpg';
+import './style.css'
 
 function Portfolio() {
     return (
         <div>
             <h2> My work </h2>
-            <div className="row row-cols-1 row-cols-md-2 g-4 flex-row">
+            <div className="row row-cols-1 row-cols-md-2 g-4 flex-row title-color">
                 <Card style={{ width: '40rem' }}>
                     <Card.Img src={budgetTracker} alt="budget" />
                     <Card.Body>

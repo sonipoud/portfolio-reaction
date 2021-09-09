@@ -1,12 +1,14 @@
 import React from 'react';
 import { AiOutlineFilePdf } from 'react-icons/ai';
+import pdf from '../../assets/resume/resume.pdf';
 
 function Resume() {
     return (
-        <div className="d-flex justify-content-center">
-            <a href="../../assets/resume/resume.pdf">
-                <AiOutlineFilePdf />
+        <div className="text-center">
+            <a href = {pdf}>
+                <AiOutlineFilePdf style={{fontSize:'50px'}}/>
             </a>
+            
             <h4> Click the icon to view the resume </h4>
         </div>
     )
