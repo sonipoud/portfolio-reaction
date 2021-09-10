@@ -4,10 +4,10 @@ import './style.css';
 
 function Navigation() {
     return (
-        <Navbar bg="dark" variant="dark">
+        <Navbar bg="dark" variant="dark" className="padding">
             <Container>
                     <Nav>
-                        <Nav.Link href="/"> About Me </Nav.Link>
+                        <Nav.Link href="#about-me"> About Me </Nav.Link>
                         <Nav.Link href="#portfolio"> Portfolio </Nav.Link>
                         <Nav.Link href="#contact"> Contact Me </Nav.Link>
                         <Nav.Link href="#resume"> Resume </Nav.Link>
