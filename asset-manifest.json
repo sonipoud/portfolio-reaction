@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/portfolio-reaction/static/css/main.5cad2f24.chunk.css",
-    "main.js": "/portfolio-reaction/static/js/main.62948af9.chunk.js",
-    "main.js.map": "/portfolio-reaction/static/js/main.62948af9.chunk.js.map",
+    "main.js": "/portfolio-reaction/static/js/main.0496083d.chunk.js",
+    "main.js.map": "/portfolio-reaction/static/js/main.0496083d.chunk.js.map",
     "runtime-main.js": "/portfolio-reaction/static/js/runtime-main.31624f2f.js",
     "runtime-main.js.map": "/portfolio-reaction/static/js/runtime-main.31624f2f.js.map",
     "static/css/2.818011ed.chunk.css": "/portfolio-reaction/static/css/2.818011ed.chunk.css",
-    "static/js/2.171004af.chunk.js": "/portfolio-reaction/static/js/2.171004af.chunk.js",
-    "static/js/2.171004af.chunk.js.map": "/portfolio-reaction/static/js/2.171004af.chunk.js.map",
+    "static/js/2.6ab92133.chunk.js": "/portfolio-reaction/static/js/2.6ab92133.chunk.js",
+    "static/js/2.6ab92133.chunk.js.map": "/portfolio-reaction/static/js/2.6ab92133.chunk.js.map",
     "static/js/3.4524fc7f.chunk.js": "/portfolio-reaction/static/js/3.4524fc7f.chunk.js",
     "static/js/3.4524fc7f.chunk.js.map": "/portfolio-reaction/static/js/3.4524fc7f.chunk.js.map",
     "index.html": "/portfolio-reaction/index.html",
     "static/css/2.818011ed.chunk.css.map": "/portfolio-reaction/static/css/2.818011ed.chunk.css.map",
     "static/css/main.5cad2f24.chunk.css.map": "/portfolio-reaction/static/css/main.5cad2f24.chunk.css.map",
-    "static/js/2.171004af.chunk.js.LICENSE.txt": "/portfolio-reaction/static/js/2.171004af.chunk.js.LICENSE.txt",
+    "static/js/2.6ab92133.chunk.js.LICENSE.txt": "/portfolio-reaction/static/js/2.6ab92133.chunk.js.LICENSE.txt",
     "static/media/beat-it.ed6358dc.jpg": "/portfolio-reaction/static/media/beat-it.ed6358dc.jpg",
+    "static/media/books.486ec491.jpg": "/portfolio-reaction/static/media/books.486ec491.jpg",
     "static/media/brewery-dog.cfb83866.jpg": "/portfolio-reaction/static/media/brewery-dog.cfb83866.jpg",
     "static/media/code-quiz.90ab639b.jpg": "/portfolio-reaction/static/media/code-quiz.90ab639b.jpg",
+    "static/media/compo.4452c737.jpg": "/portfolio-reaction/static/media/compo.4452c737.jpg",
     "static/media/ecommerce-backend.4974ece9.jpg": "/portfolio-reaction/static/media/ecommerce-backend.4974ece9.jpg",
     "static/media/horiseon.0e89b769.jpg": "/portfolio-reaction/static/media/horiseon.0e89b769.jpg",
     "static/media/my-blog.42939fd3.png": "/portfolio-reaction/static/media/my-blog.42939fd3.png",
@@ -34,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.31624f2f.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.171004af.chunk.js",
+    "static/js/2.6ab92133.chunk.js",
     "static/css/main.5cad2f24.chunk.css",
-    "static/js/main.62948af9.chunk.js"
+    "static/js/main.0496083d.chunk.js"
   ]
 }
