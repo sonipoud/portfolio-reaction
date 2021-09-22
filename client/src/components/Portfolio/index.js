@@ -31,7 +31,7 @@ function Portfolio() {
                     <Card.Body>
                         <Card.Title>Components</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">MERN</Card.Subtitle>
-                        <Card.Link href=""><AiOutlineGithub style={{ fontSize: '40px' }} /></Card.Link>
+                        <Card.Link href="https://component-react.herokuapp.com/#/"><AiOutlineGithub style={{ fontSize: '40px' }} /></Card.Link>
                     </Card.Body>
                 </Card>
 
